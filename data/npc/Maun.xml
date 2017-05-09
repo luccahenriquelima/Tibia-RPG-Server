@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Maun" script="rock.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+<look type="134" head="78" body="120" legs="122" feet="132" addons="2"/>
+	<parameters>
+		<parameter key="message_greet" value="Welcome |PLAYERNAME|. Hello."/>
+		<parameter key="message_decline" value="It is okay"/>
+		<parameter key="shop_buyable" value="axe,2386,20;battle hammer,2417,350;brass armor,2465,450;chain armor,2464,200;chain helmet,2458,52;chain legs,2648,80;dagger,2379,5;hand axe,2380,8;leather armor,2467,35;leather helmet,2461,12;mace,2398,90;rapier,2384,15;sabre,2385,35;spear,2389,10;steel shield,2509,240;sword,2376,85;throwing knife,2410,25;wooden shield,2512,15;scyzoryk,10516,10000;scyzoryk,10511,10000;scyzoryk,10513,10000;blessed wooden stake,5942,10000;obsidian knife,5908,10000;shovel,2554,50;backpack,1988,20;fishing rod,2580,150;rope,2120,50;machete,2420,40;bag,1987,5;orange backpack,10519,20;orange bag,10520,5;pick,2553,50;scythe,2550,50;machete,2420,40;torch,2050,2;bottle,2007,3,1;book,1955,15;book,1950,15;document,1952,12;book,1958,15;parchment,1948,8;scroll,1949,5;valentines card,6538,30;plate,2035,6;present box,1990,10;watch,2036,20;worm,3976,1;rust remover,9930,100;crowbar,10223,1000;long sword,2397,40;parcel,9081,15;label,6086,1;letter,2597,5;" />
+	</parameters>
+</npc>

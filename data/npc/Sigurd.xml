@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<npc name="Sigurd" script="Sigurd.lua" walkinterval="2000" floorchange="0">
+  <health now="100" max="100" />
+  <look type="69" head="0" body="0" legs="0" feet="0" addons="0" />
+  <voices>
+    <voice text="Hiho adventurers, get your runes, potions, wands and rods here!" interval2="120" margin="1" yell="no" />
+    <voice text="Welcome to the magic store, Kurlok Orievis! Ask me for a trade if you need something." interval2="120" margin="1" yell="no" />
+    <voice text="Welcome to the magic store, Alpha Particle! Ask me for a trade if you need something." interval2="120" margin="1" yell="no" />
+    <voice text="Good bye. Come back soon." interval2="120" margin="1" yell="no" />
+  </voices>
+</npc>

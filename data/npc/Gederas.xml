@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Eruaran" script="default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="131" head="95" body="95" legs="95" feet="95" addons="3"/>
+    <parameters>
+        <parameter key="message_greet" value="Hi |PLAYERNAME|! Im a researcher, I know the story about how Roshamuul was discovered"/>
+        <parameter key="message_farewell" value="Good bye."/>
+    </parameters>
+</npc>
